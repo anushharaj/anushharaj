@@ -2,7 +2,7 @@
 ### I am Anusha Raj👋
 
 - 👀 I’m interested in learning...
-- 🌱 I’m currently working on BlockPitch a Blockchain encrypted fund gathering...
+
 
 
 
